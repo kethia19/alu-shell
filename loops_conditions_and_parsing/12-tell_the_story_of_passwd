@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #This script is used to tell the story/made up story of etc/passwd
 while IFS=: read -r username password userid groupid userid_info home shell
 do
